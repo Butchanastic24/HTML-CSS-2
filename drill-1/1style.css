@@ -1,0 +1,33 @@
+
+#leftMargin{
+    background-color: lightgray;
+    height: 100%;
+    width: 110px;
+    position:absolute;
+    left: 0;
+    z-index: 2;
+}
+#rightMargin{
+    background-color: lightgray;
+    height: 100%;
+    width: 110px;
+    position:absolute;
+    right: 0;
+    z-index: 2;
+}
+#header{
+    background-color: grey;
+    height: 175px;
+    width: 100%;
+    position:absolute;
+    top: 0;
+    z-index: 5;
+}
+#footer{
+    background-color: grey;
+    height: 80px;
+    width: 100%;
+    position:absolute;
+    bottom: 0;
+    z-index: 1;
+}

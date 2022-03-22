@@ -1,0 +1,54 @@
+#firstContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+#greyBox{
+    height: 125px;
+    width: 100%;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+}
+#smallBlueBox{
+    height: 65px;
+    width: 65px;
+    background-color: cornflowerblue;
+    margin-left: 25px;
+}
+
+#textBox{
+    height: 315px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    margin: 20px;
+}
+
+#blueBox{
+    height: 200px;
+    width: 100%;
+    background-color: cornflowerblue;
+}
+
+#cyanBox{
+    height: 200px;
+    width: 100%;
+    background-color: cyan;
+}
+
+#lightGreenBox{
+    height: 200px;
+    width: 100%;
+    background-color: lightgreen;
+}
+
+#limeBox{
+    height: 200px;
+    width: 100%;
+    background-color: #FFE20B;
+}
